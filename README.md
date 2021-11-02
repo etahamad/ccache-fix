@@ -9,6 +9,7 @@ errors:
 
 Android 12:
 ```
-$ git clone https://github.com/omartldr/ccache-fix
-$ bash ./ccache-fix/ccache.sh
+$ cd <source dir>
+$ wget https://raw.githubusercontent.com/omartldr/ccache-fix/main/ccache.sh
+$ bash ./ccache.sh
 ```
