@@ -1,8 +1,5 @@
-mkdir /ccache
 mkdir tempcc
-umount /ccache
-sudo mount --bind $PWD/tempcc /ccache
 export USE_CCACHE=1
-export CCACHE_EXEC=$(which ccache)
-export CCACHE_DIR=/ccache
+export CCACHE_EXEC=/usr/bin/ccache
+export CCACHE_DIR=$PWD/tempcc
 ccache -M 100G -F 0
