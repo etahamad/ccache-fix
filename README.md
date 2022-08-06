@@ -9,7 +9,11 @@ errors:
 
 Android 12:
 ```
-$ cd <source dir>
-$ wget https://raw.githubusercontent.com/omartldr/ccache-fix/main/ccache.sh
-$ sudo bash ./ccache.sh
+cd <source dir>
+```
+```
+wget https://raw.githubusercontent.com/omartldr/ccache-fix/main/ccache.sh
+```
+```
+sudo bash ./ccache.sh
 ```
