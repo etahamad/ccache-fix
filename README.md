@@ -1,4 +1,4 @@
-# Android 12 CCache problem fix
+# Android 12 / 13 CCache problem fix
 
 This is a universal fix for ccahce problems that prevents source from writing into the ccache forlder
 
@@ -7,7 +7,7 @@ errors:
 
 ## Usage:
 
-Android 12:
+Android 12 / 13:
 ```
 cd <source dir>
 ```
