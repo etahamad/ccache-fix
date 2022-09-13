@@ -15,5 +15,5 @@ cd <source dir>
 wget https://raw.githubusercontent.com/etahamad/ccache-fix/main/ccache.sh
 ```
 ```
-sudo bash ./ccache.sh
+bash ./ccache.sh
 ```
