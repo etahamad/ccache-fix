@@ -9,7 +9,7 @@ errors:
 
 Android 12 / 13:
 ```
-cd <source dir>
+cd <aosp_source_dir>
 ```
 ```
 wget https://raw.githubusercontent.com/etahamad/ccache-fix/main/ccache.sh
